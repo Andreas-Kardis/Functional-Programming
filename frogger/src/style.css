@@ -1,0 +1,72 @@
+BODY,
+H2,
+H3,
+H4,
+H5,
+H6,
+TH,
+TD {
+    font-family: arial, helvetica, sans-serif;
+}
+
+Body {
+    background-color: rgb(55, 55, 55);
+}
+
+H1 {
+    font-size: 38px;
+    font-family: arial, helvetica, sans-serif;
+    color: azure;
+}
+
+svg {
+    background-color: rgb(41, 41, 36);
+}
+
+p.highlight {
+    color: red;
+}
+
+.Car {
+    fill: whitesmoke;
+}
+
+.Log {
+    fill:chocolate;
+    position:relative;
+    z-index: -1;
+}
+
+.frog {
+    fill: green;
+}
+
+.turtle {
+    fill: red;
+}
+
+.FinishLine {
+    fill: darkolivegreen;
+}
+
+.FinishSpots {
+    fill: blueviolet;
+}
+
+.Score {
+    fill: red;
+    font-size: 30px;
+}
+
+.gameover {
+    fill: red;
+    font-size: 40px;
+}
+
+.Fly {
+    fill: rgb(0, 0, 137);
+}
+
+.finalScore {
+    font-size: 30px;
+}
